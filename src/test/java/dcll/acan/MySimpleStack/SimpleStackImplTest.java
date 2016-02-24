@@ -10,6 +10,8 @@ import static org.junit.Assert.*;
  * Created by Lioz-MBPR on 24/02/16.
  *
  * Un commentaire répondant à l'exigence #3
+ *
+ * Un commentaire répondant à l'exigence #1
  */
 public class SimpleStackImplTest {
     SimpleStack simpleStack;

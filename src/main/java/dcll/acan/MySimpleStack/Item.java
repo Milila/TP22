@@ -1,7 +1,5 @@
 package dcll.acan.MySimpleStack;
 
-import org.omg.CORBA.Object;
-
 /**
  * Created by Lioz-MBPR on 24/02/16.
  */
